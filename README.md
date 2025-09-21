@@ -1,3 +1,5 @@
+This project is based on my internship at Infosys Springboard.
+
 The goal of this project is to analyze a large dataset of road accidents to uncover trends, patterns, and key factors contributing to accident severity. The project involves performing in-depth exploratory data analysis (EDA) using Python libraries such as Pandas, Matplotlib, and Seaborn to extract meaningful insights that can help improve road safety.
 
 Outcomes:
